@@ -1,0 +1,15 @@
+﻿  PartyGame.cpp
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(137,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(138,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(147,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(287,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(287,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(294,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(294,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(299,23): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(368,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(382,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(408,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Sudoku\PartyGame.cpp(47): warning C4715: PartyGame::getLvlName: значение возвращается не при всех путях выполнения
+  Game.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Sudoku.vcxproj -> C:\Users\Настя\source\repos\Sudoku\Debug\Sudoku.exe

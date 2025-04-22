@@ -1,0 +1,5 @@
+C:\Users\Настя\source\repos\Sudoku\Release\Sudoku.vcxproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\Sudoku\Release\Sudoku.Game.resources
+C:\Users\Настя\source\repos\Sudoku\Release\Sudoku.MainForm.resources
+C:\Users\Настя\source\repos\Sudoku\Release\Sudoku.vcxproj.GenerateResource.cache
+C:\Users\Настя\source\repos\Sudoku\Release\Sudoku.exe
